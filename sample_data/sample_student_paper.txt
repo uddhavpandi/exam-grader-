@@ -1,0 +1,7 @@
+Name: Test Student   Roll No: 21
+
+Q1) Newtons second law says force equals mass times acceleration, F=ma. It means the force needed to accelerate an object depends on its mass.
+
+Q2) v = u + gt = 0 + 9.8 x 3 = 29.4 m/s
+
+Q3) [student drew a diagram here] The retina senses light and sends signal to brain through optic nerve.

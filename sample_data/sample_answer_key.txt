@@ -1,0 +1,10 @@
+Subject: Physics - Sample Answer Key
+
+Q1) State Newton's second law of motion.
+Newton's second law states that the rate of change of momentum of a body is directly proportional to the net force applied, and this change occurs in the direction of the force. It is expressed as F = ma, where F is force, m is mass and a is acceleration.
+
+Q2) A ball is dropped from rest and falls for 3 seconds. Find its final velocity. (g = 9.8 m/s^2)
+Using v = u + gt, u = 0, g = 9.8, t = 3, so v = 0 + 9.8*3 = 29.4 m/s.
+
+Q3) Draw a labelled diagram of the human eye and explain the function of the retina.
+[DIAGRAM QUESTION - the retina converts light into electrical signals sent to the brain via the optic nerve.]

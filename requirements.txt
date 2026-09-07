@@ -1,0 +1,23 @@
+# Core app
+streamlit>=1.35
+pandas>=2.0
+
+# OCR
+pytesseract>=0.3.10
+opencv-python-headless>=4.9
+pillow>=10.0
+
+# NLP scoring
+scikit-learn>=1.4
+numpy>=1.26
+
+# Class bell-curve chart (Step 3)
+matplotlib>=3.8
+
+# Optional (better semantic matching) -- app works fine without this,
+# falls back to TF-IDF automatically. Uncomment to enable:
+# sentence-transformers>=2.6
+
+# Optional (Claude Vision OCR backend for messy handwriting) -- only needed
+# if you select the "claude_vision" OCR backend in the sidebar. Uncomment:
+# anthropic>=0.34
